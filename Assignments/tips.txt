@@ -1,2 +1,0 @@
-1. It should be stated this it is possible and recommended to install MESA on a strw pc.
-2. 
